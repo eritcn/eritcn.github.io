@@ -626,7 +626,7 @@ footer .credit a:hover {
 /* Tablet */
 @media (max-width:758px) {
     html {
-        font-size: 75%;
+        font-size: 80%;
     }
 
     .hero {
@@ -741,7 +741,7 @@ footer .credit a:hover {
 
 
 /* Mobile Phone */
-@media (max-width:600px) {
+@media (max-width:400px) {
     html {
         font-size: 55%;
     }
@@ -755,12 +755,12 @@ footer .credit a:hover {
         margin-top: 4rem;
     }
 
-    .about .row .about-img img {
+    /* .about .row .about-img img {
         height: 38rem;
         object-fit: cover;
         object-position: center;
     }
-    
+     */
 }
 .products .product-image img {
     height: 30rem;
