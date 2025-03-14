@@ -760,6 +760,8 @@ footer .credit a:hover {
         object-fit: cover;
         object-position: center;
     }
-
     
+}
+.products .product-image img {
+    height: 30rem;
 }
