@@ -741,7 +741,7 @@ footer .credit a:hover {
 
 
 /* Mobile Phone */
-@media (max-width:470px) {
+/* @media (max-width:470px) {
     html {
         font-size: 65%;
     }
@@ -766,4 +766,4 @@ footer .credit a:hover {
         object-position: center;
     }
 
-}
+} */
